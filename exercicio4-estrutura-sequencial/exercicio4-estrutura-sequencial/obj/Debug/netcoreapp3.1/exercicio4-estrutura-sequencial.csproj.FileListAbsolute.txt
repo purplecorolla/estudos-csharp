@@ -1,0 +1,14 @@
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.exe
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.deps.json
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.runtimeconfig.json
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.runtimeconfig.dev.json
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.dll
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.pdb
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.csproj.AssemblyReference.cache
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.AssemblyInfoInputs.cache
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.AssemblyInfo.cs
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.dll
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.pdb
+C:\Users\susan\Desktop\Curso C#\exercicio4-estrutura-sequencial\exercicio4-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio4-estrutura-sequencial.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.exe
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.deps.json
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.runtimeconfig.json
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.runtimeconfig.dev.json
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.dll
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.pdb
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.csproj.AssemblyReference.cache
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.AssemblyInfoInputs.cache
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.AssemblyInfo.cs
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.csproj.CoreCompileInputs.cache
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.dll
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.pdb
+C:\Users\susan\source\repos\exercicio2-estrutura-sequencial\exercicio2-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio2-estrutura-sequencial.genruntimeconfig.cache

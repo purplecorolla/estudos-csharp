@@ -1,0 +1,14 @@
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.exe
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.deps.json
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.runtimeconfig.json
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.runtimeconfig.dev.json
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.dll
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\bin\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.pdb
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.AssemblyInfoInputs.cache
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.AssemblyInfo.cs
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.dll
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.pdb
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.genruntimeconfig.cache
+C:\Users\susan\Desktop\Curso C#\exercicio1-estrutura-sequencial\exercicio1-estrutura-sequencial\obj\Debug\netcoreapp3.1\exercicio1-estrutura-sequencial.csproj.AssemblyReference.cache
