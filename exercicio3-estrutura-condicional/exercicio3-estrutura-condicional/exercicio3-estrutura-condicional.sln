@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio3-estrutura-condicional", "exercicio3-estrutura-condicional\exercicio3-estrutura-condicional.csproj", "{EC3D7C1B-9278-4F62-8E43-A247A060BA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3D7C1B-9278-4F62-8E43-A247A060BA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3D7C1B-9278-4F62-8E43-A247A060BA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3D7C1B-9278-4F62-8E43-A247A060BA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3D7C1B-9278-4F62-8E43-A247A060BA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C3ED50-F6C3-42A5-9D66-953A99CCDA7A}
+	EndGlobalSection
+EndGlobal
