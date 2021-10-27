@@ -1,0 +1,13 @@
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.exe
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.deps.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.runtimeconfig.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.runtimeconfig.dev.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.dll
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\bin\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.pdb
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.AssemblyInfoInputs.cache
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.AssemblyInfo.cs
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.dll
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.pdb
+C:\Users\susan\Desktop\estudos-csharp\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\exercicio5-estrutura-condicional\obj\Debug\netcoreapp3.1\exercicio5-estrutura-condicional.genruntimeconfig.cache

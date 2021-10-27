@@ -1,0 +1,14 @@
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.exe
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.deps.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.runtimeconfig.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.runtimeconfig.dev.json
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.dll
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\bin\Debug\netcoreapp3.1\exercicio2-estrutura-while.pdb
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.csproj.AssemblyReference.cache
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.AssemblyInfoInputs.cache
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.AssemblyInfo.cs
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.dll
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.pdb
+C:\Users\susan\Desktop\estudos-csharp\exercicio2-estrutura-while\exercicio2-estrutura-while\exercicio2-estrutura-while\obj\Debug\netcoreapp3.1\exercicio2-estrutura-while.genruntimeconfig.cache

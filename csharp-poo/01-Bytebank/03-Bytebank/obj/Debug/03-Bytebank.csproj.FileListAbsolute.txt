@@ -1,0 +1,7 @@
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\bin\Debug\03-Bytebank.exe.config
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\bin\Debug\03-Bytebank.exe
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\bin\Debug\03-Bytebank.pdb
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\obj\Debug\03-Bytebank.csproj.AssemblyReference.cache
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\obj\Debug\03-Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\obj\Debug\03-Bytebank.exe
+C:\Users\susan\Desktop\CSHARP-POO\01-Bytebank\03-Bytebank\obj\Debug\03-Bytebank.pdb
